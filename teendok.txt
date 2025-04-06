@@ -1,0 +1,6 @@
+- kis és nagybetűs keresés, gombkattintás nélkül működjön
+- dokumentáció
+- egyszerű kosár
+- Admin módosítás
+Vásárlás:
+- csak bejelentkezett Felhasználó
